@@ -4,3 +4,29 @@ body {
     line-height: 1.6;
 }
 
+h1 {
+    margin: 20px;
+    text-align: center;
+}
+
+.pizza-image {
+    width: 500px;
+    display: block;
+    float: right;
+    margin: 40px;
+    transform: translateX(-150px);
+}
+
+.subtitle {
+    color: darkkhaki;
+}
+
+.section-title {
+    color: rgb(228, 11, 22);
+}
+
+.section-subtitle {
+    color: rgb(228, 11, 22);
+    font-weight: bold;
+}
+
