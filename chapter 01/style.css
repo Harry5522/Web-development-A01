@@ -30,3 +30,24 @@ h1 {
     font-weight: bold;
 }
 
+.ingredients {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+.bold-number {
+    font-weight: bold;
+}
+
+.enjoy {
+    color: darkkhaki;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 40px;
+}
+
+hr {
+    border: none;
+    border-top: 2px solid rgb(200, 200, 200);
+    margin: 20px 0;
+}
