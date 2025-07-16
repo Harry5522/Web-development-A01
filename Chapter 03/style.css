@@ -24,3 +24,9 @@ h1 {
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 
+.image-box img {
+  filter: grayscale(40%) brightness(1.1);
+  border-radius: 6px;
+  transition: transform 0.3s ease;
+}
+
