@@ -16,3 +16,9 @@ header {
   font-weight: 700;
 }
 
+nav {
+  background-color: #172d67;
+  padding: 10px;
+  text-align: center;
+}
+
